@@ -1,0 +1,51 @@
+airline,flight_number,departure_airport,arrival_airport,departure_city,arrival_city,scheduled_departure,scheduled_arrival,status
+Jin Air,LJ922,Guam International,Gimhae,N/A,N/A,2025-07-05T03:00:00+00:00,2025-07-05T06:15:00+00:00,scheduled
+Korean Air,KE5778,Guam International,Gimhae,N/A,N/A,2025-07-05T03:00:00+00:00,2025-07-05T06:15:00+00:00,scheduled
+Jin Air,LJ918,Guam International,Seoul (Incheon),N/A,N/A,2025-07-05T02:30:00+00:00,2025-07-05T06:10:00+00:00,scheduled
+Korean Air,KE424,Guam International,Seoul (Incheon),N/A,N/A,2025-07-05T01:55:00+00:00,2025-07-05T05:40:00+00:00,scheduled
+Delta Air Lines,DL7830,Guam International,Seoul (Incheon),N/A,N/A,2025-07-05T01:55:00+00:00,2025-07-05T05:40:00+00:00,scheduled
+Air New Zealand,NZ405,Auckland International,Wellington International,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:10:00+00:00,scheduled
+United Airlines,UA6777,Auckland International,Wellington International,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:10:00+00:00,scheduled
+Singapore Airlines,SQ4438,Auckland International,Wellington International,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:10:00+00:00,scheduled
+Etihad Airways,EY4601,Auckland International,Wellington International,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:10:00+00:00,scheduled
+EVA Air,BR3243,Auckland International,Wellington International,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:10:00+00:00,scheduled
+Air New Zealand,NZ101,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Virgin Australia,VA7001,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+United Airlines,UA6771,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Turkish Airlines,TK8747,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Singapore Airlines,SQ4251,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Asiana Airlines,OZ6551,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Etihad Airways,EY4411,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Air China LTD,CA5111,Auckland International,Sydney Kingsford Smith Airport,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:45:00+00:00,cancelled
+Jetstar,JQ132,Auckland International,Gold Coast (coolangatta),N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Qantas,QF5524,Auckland International,Gold Coast (coolangatta),N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Air New Zealand,NZ5119,Auckland International,Palmerston North,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:15:00+00:00,scheduled
+Singapore Airlines,SQ4413,Auckland International,Palmerston North,N/A,N/A,2025-07-05T07:00:00+00:00,2025-07-05T08:15:00+00:00,scheduled
+Air New Zealand,NZ673,Auckland International,Dunedin International,N/A,N/A,2025-07-05T06:55:00+00:00,2025-07-05T08:50:00+00:00,scheduled
+Singapore Airlines,SQ4374,Auckland International,Dunedin International,N/A,N/A,2025-07-05T06:55:00+00:00,2025-07-05T08:50:00+00:00,scheduled
+Qantas,QF8457,Auckland International,Dunedin International,N/A,N/A,2025-07-05T06:55:00+00:00,2025-07-05T08:50:00+00:00,scheduled
+Etihad Airways,EY4594,Auckland International,Dunedin International,N/A,N/A,2025-07-05T06:55:00+00:00,2025-07-05T08:50:00+00:00,scheduled
+EVA Air,BR3239,Auckland International,Dunedin International,N/A,N/A,2025-07-05T06:55:00+00:00,2025-07-05T08:50:00+00:00,scheduled
+Air New Zealand,NZ5063,Auckland International,Nelson,N/A,N/A,2025-07-05T06:45:00+00:00,2025-07-05T08:15:00+00:00,scheduled
+Singapore Airlines,SQ4406,Auckland International,Nelson,N/A,N/A,2025-07-05T06:45:00+00:00,2025-07-05T08:15:00+00:00,scheduled
+Qantas,QF8471,Auckland International,Nelson,N/A,N/A,2025-07-05T06:45:00+00:00,2025-07-05T08:15:00+00:00,scheduled
+Air New Zealand,NZ611,Auckland International,Queenstown,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Singapore Airlines,SQ4450,Auckland International,Queenstown,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Qantas,QF8448,Auckland International,Queenstown,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Etihad Airways,EY4739,Auckland International,Queenstown,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+EVA Air,BR3273,Auckland International,Queenstown,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:35:00+00:00,scheduled
+Jetstar,JQ150,Auckland International,Brisbane International,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:30:00+00:00,scheduled
+Air New Zealand,NZ519,Auckland International,Christchurch International,N/A,N/A,2025-07-05T06:40:00+00:00,2025-07-05T08:05:00+00:00,scheduled
+Pelita Air,IP920,Soekarno-Hatta International,Jefman,N/A,N/A,2025-07-05T01:05:00+00:00,2025-07-05T07:05:00+00:00,scheduled
+Citilink,QG8350,Soekarno-Hatta International,Bubung / Aminuddin Amir,N/A,N/A,2025-07-05T01:00:00+00:00,2025-07-05T05:10:00+00:00,scheduled
+Qatar Airways,QR955,Soekarno-Hatta International,Doha International,N/A,N/A,2025-07-05T00:55:00+00:00,2025-07-05T05:20:00+00:00,scheduled
+Philippine Airlines,PR536,Soekarno-Hatta International,Ninoy Aquino International,N/A,N/A,2025-07-05T00:55:00+00:00,2025-07-05T06:20:00+00:00,scheduled
+Batik Air,ID6180,Soekarno-Hatta International,Sentani,N/A,N/A,2025-07-05T00:45:00+00:00,2025-07-05T08:05:00+00:00,scheduled
+Etihad Airways,EY473,Soekarno-Hatta International,Abu Dhabi International,N/A,N/A,2025-07-05T00:45:00+00:00,2025-07-05T05:50:00+00:00,scheduled
+Emirates,EK359,Soekarno-Hatta International,Dubai,N/A,N/A,2025-07-05T00:45:00+00:00,2025-07-05T05:35:00+00:00,scheduled
+Saudia,SV827,Soekarno-Hatta International,King Abdulaziz International,N/A,N/A,2025-07-05T00:40:00+00:00,2025-07-05T06:15:00+00:00,scheduled
+Batik Air,ID6170,Soekarno-Hatta International,Pattimura,N/A,N/A,2025-07-05T00:35:00+00:00,2025-07-05T06:10:00+00:00,scheduled
+Virgin Australia,VA74,Faleolo,Brisbane International,N/A,N/A,2025-07-05T06:00:00+00:00,2025-07-05T09:00:00+00:00,scheduled
+China Cargo,CK248,Kansai International,Shanghai Pudong International,N/A,N/A,2025-07-05T00:35:00+00:00,2025-07-05T01:35:00+00:00,scheduled
+Air New Zealand,NZ5275,Kerikeri/Bay of Islands,Auckland International,N/A,N/A,2025-07-05T06:00:00+00:00,2025-07-05T06:50:00+00:00,scheduled
+Singapore Airlines,SQ4389,Kerikeri/Bay of Islands,Auckland International,N/A,N/A,2025-07-05T06:00:00+00:00,2025-07-05T06:50:00+00:00,scheduled
